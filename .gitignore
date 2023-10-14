@@ -137,3 +137,6 @@ __pycache__/
 **/.DS_Store
 .vscode
 **/.vscode
+
+# AI service and secrets for AKS deployment
+ai-service.yaml
